@@ -48,7 +48,7 @@ This repository comprises a collection of 15 impeccably designed HTML and CSS pr
 ## 📬 Connect With Me
 
 - **LinkedIn** - [Ritesh Kumar Sharma](https://www.linkedin.com/in/ritesh-sharma-rk40/)
-- **Twitter** - [Ritesh Kumar Sharma]()
+- **Twitter** - [Ritesh Kumar Sharma](https://twitter.com/sharma_coder)
 - **email** - [riteshks128@gmail.com](mailto:riteshks128@gmail.com)
 
 ## 📌 Acknowledgments
